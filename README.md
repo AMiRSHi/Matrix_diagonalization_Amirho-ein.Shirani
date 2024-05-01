@@ -1,2 +1,2 @@
-# Matrix_diagonalization_Amirho-ein.Shirani
+# Matrix_diagonalization_Amirhoßein.Shirani
 matrix diagonalization and plotting eigenvalues
